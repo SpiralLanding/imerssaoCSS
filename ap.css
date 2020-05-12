@@ -1,0 +1,11 @@
+body{
+    background-image: url(imagem.jpg);
+    color: cornsilk;
+    text-align: center;
+    font-family: comic sans ms;
+}
+#a{
+    text-transform: capitalize;
+    text-decoration-color: lemonchiffon;
+    text-decoration-line: line-through;
+}
